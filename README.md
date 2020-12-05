@@ -16,7 +16,7 @@ Currently I spend most of my time working on [otion](https://otion.app) which is
 ## My work
 
 
-  <img  width="30%" src="https://res.cloudinary.com/deirqouhr/image/upload/v1607168098/Frame_6_afte2b.png" alt="parfum.nl" />
+  <img  width="250px" src="https://res.cloudinary.com/deirqouhr/image/upload/v1607168098/Frame_6_afte2b.png" alt="parfum.nl" />
   
   
   ### [Parfum.nl](https://parfum.nl)
@@ -24,11 +24,11 @@ Currently I spend most of my time working on [otion](https://otion.app) which is
   - uses Nextjs, Algolia & Shopify with Graphql for an extremely fast & snappy experience across the entire app
 
 
+---
 
-  <img width="30%" src="https://res.cloudinary.com/deirqouhr/image/upload/v1607169130/Frame_7_rh9nve.png" alt="otion.app" />
-  
-  
-  ---
+<p>
+  <img width="250px" src="https://res.cloudinary.com/deirqouhr/image/upload/v1607169130/Frame_7_rh9nve.png" alt="otion.app" />
+</p>
   
   ### [Otion.app](https://otion.app)
   - Design & Developed marketing pages
