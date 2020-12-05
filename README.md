@@ -27,6 +27,9 @@ Currently I spend most of my time working on [otion](https://otion.app) which is
 
   <img width="30%" src="https://res.cloudinary.com/deirqouhr/image/upload/v1607169130/Frame_7_rh9nve.png" alt="otion.app" />
   
+  
+  ---
+  
   ### [Otion.app](https://otion.app)
   - Design & Developed marketing pages
   - Design & Developed a motion graphics editor using canvas, svelte and SVG
