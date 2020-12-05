@@ -7,32 +7,9 @@
   -->
 </p>
 
-You can also find me on [twitter](https://twitter.com/JescoWuester) 
-
-## About me
-I'm passionate about building native-like experiences on the web. This means they need to be fast and immersive and often push the boundaries of what the web can do. 
-Currently I spend most of my time working on [otion](https://otion.app) which is a 2d motion graphics editor for the web.
-
-## My work
-
-
-  <img  width="250px" src="https://res.cloudinary.com/deirqouhr/image/upload/v1607168098/Frame_6_afte2b.png" alt="parfum.nl" />
-  
-  
-  ### [Parfum.nl](https://parfum.nl)
-  - led the development of parfum.nl while working at Story of Ams
-  - uses Nextjs, Algolia & Shopify with Graphql for an extremely fast & snappy experience across the entire app
-
-
----
-
-<p>
-  <img width="250px" src="https://res.cloudinary.com/deirqouhr/image/upload/v1607169130/Frame_7_rh9nve.png" alt="otion.app" />
-</p>
-  
-  ### [Otion.app](https://otion.app)
-  - Design & Developed marketing pages
-  - Design & Developed a motion graphics editor using canvas, svelte and SVG
+⚡ I use Technologies like React, Svelte and SVG to create snappy websites.
+🌟 When I'm not coding I design websites 
+🐓 You can also find me on [twitter](https://twitter.com/JescoWuester) and [dev.to](https://dev.to/jsco)
  
  
 
