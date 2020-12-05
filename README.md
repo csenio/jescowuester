@@ -7,7 +7,7 @@
   -->
 </p>
 
-- ⚡ I use Technologies like React, Svelte and SVG to create snappy websites.
+- ⚡ I'm available for freelance work starting 2021, contact me via [twitter](https://twitter.com/JescoWuester) or [linkedin](https://www.linkedin.com/in/jescowuester/)
 - 🌟 When I'm not coding I design websites 
 - 🐓 You can also find me on [twitter](https://twitter.com/JescoWuester) and [dev.to](https://dev.to/jsco)
  
