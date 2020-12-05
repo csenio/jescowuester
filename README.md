@@ -7,9 +7,9 @@
   -->
 </p>
 
-⚡ I use Technologies like React, Svelte and SVG to create snappy websites.
-🌟 When I'm not coding I design websites 
-🐓 You can also find me on [twitter](https://twitter.com/JescoWuester) and [dev.to](https://dev.to/jsco)
+- ⚡ I use Technologies like React, Svelte and SVG to create snappy websites.
+- 🌟 When I'm not coding I design websites 
+- 🐓 You can also find me on [twitter](https://twitter.com/JescoWuester) and [dev.to](https://dev.to/jsco)
  
  
 
