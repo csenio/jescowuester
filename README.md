@@ -5,8 +5,4 @@
   <a href="https://jsco.dev/blog"><img alt="My Blog" height="40" src="https://res.cloudinary.com/deirqouhr/image/upload/v1607167323/Group_20_vijkou.png"></a>
 </p>
 
-- ⚡ I'm available for freelance work starting 2021, contact me via [twitter](https://twitter.com/JescoWuester) or [linkedin](https://www.linkedin.com/in/jescowuester/)
-- 🐓 You can also find me on [twitter](https://twitter.com/JescoWuester) and [dev.to](https://dev.to/jsco)
- 
- 
-
+You can also find me on [twitter](https://twitter.com/JescoWuester), [linkedin](https://www.linkedin.com/in/jescowuester/) and [dev.to](https://dev.to/jsco)
